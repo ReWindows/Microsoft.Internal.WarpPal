@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Microsoft.Internal.WarpPal.dll",
+  "latest": "1689278011-E2AF68F0610EE4E50D7CDF8163C8A9CF-1",
+  "builds": [
+    {
+      "key": "1689278011-E2AF68F0610EE4E50D7CDF8163C8A9CF-1",
+      "timestamp": "1689278011",
+      "pdb_guid": "E2AF68F0610EE4E50D7CDF8163C8A9CF",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1689278011-E2AF68F0610EE4E50D7CDF8163C8A9CF-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
